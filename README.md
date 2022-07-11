@@ -1,6 +1,14 @@
 # Fashionformer ECCV-2022
 [A simple, effective and unified baseline for human fashion segmentation and recognition (ECCV 2022)](https://arxiv.org/abs/2204.04654)
 
+Shilin Xu*,
+[Xiangtai Li*](https://lxtgh.github.io/),
+[Jingbo Wang](http://wangjingbo.top/),
+[Guangliang Cheng](https://scholar.google.com/citations?user=FToOC-wAAAAJ),
+[Yunhai Tong](https://www.cis.pku.edu.cn/info/1177/1371.htm),
+[Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN).
+
+
 ![Figure](./figs/Fashion_teaser.png)
 ## Introduction
 We present a simple, effective, unified baseline for fashion segmentation and attribute recognition. The figure below shows that the entire architecture is the Encoder-Decoder framework, like DETR.
@@ -10,8 +18,6 @@ This codebase also contains the implementation of [MaskAttribute-RCNN](https://a
 ![Figure](./figs/fashionformer_teaser_01.png)
 
 Fashionformer achieve new state-of-the-art results on three fashion segmentation datasets.
-
-
 
 
 ### Requirements
