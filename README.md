@@ -101,7 +101,7 @@ We give the config to reproduce the Fashionformer and Mask-Attributes Mask-RCNN.
 
 #### Fashionpedia 
 
-Fashionformer CheckPoints [link](https://pan.baidu.com/s/1wdG_QsNWHkgGbqWJYouVcw) Access Code: uvlc
+Fashionformer CheckPoints [one drive](https://1drv.ms/u/s!Ai4mxaXd6lVBcAWlLG9x3sx8cKY?e=cBZdNy) and [baidu yun](https://pan.baidu.com/s/1wdG_QsNWHkgGbqWJYouVcw) Access Code: uvlc; 
 
 ### Acknowledgement
 
