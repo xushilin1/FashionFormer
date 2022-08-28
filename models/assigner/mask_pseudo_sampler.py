@@ -73,7 +73,7 @@ class MaskSamplingResult(SamplingResult):
         }
 
 
-@BBOX_SAMPLERS.register_module()
+@BBOX_SAMPLERS.register_module(force=True)
 class MaskPseudoSampler(BaseSampler):
     """A pseudo sampler that does not do sampling actually."""
 

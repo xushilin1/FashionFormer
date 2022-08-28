@@ -1,6 +1,6 @@
 _base_ = [
-    '../_base_/models/fashionformer_r50_fpn.py',
-    '../_base_/default_runtime.py',
+    '../../_base_/models/fashionformer_r50_fpn.py',
+    '../../_base_/default_runtime.py',
 ]
 
 num_stages = 3
@@ -58,7 +58,7 @@ model = dict(
 
 custom_imports = dict(
     imports=[
-        'projects.KFashion',
+        'projects.FashionFormer',
         'models.necks.semantic_fpn_wrapper',
         'datasets'
     ],
