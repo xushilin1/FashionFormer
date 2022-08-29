@@ -213,7 +213,7 @@ class FashionFormer(TwoStageDetector):
         roi_outs = self.roi_head.forward_dummy(x_feats, mlvl_feats, mask_preds, proposal_feats, dummy_img_metas)
         return roi_outs
 
-    def show_result(self,
+    def _show_result(self,
                     img,
                     result,
                     score_thr=0.3,

@@ -1,4 +1,3 @@
-# Copyright (c) OpenMMLab. All rights reserved.
 from mmdet.core import bbox2roi
 from mmdet.models.roi_heads import StandardRoIHead
 from mmdet.models.roi_heads.bbox_heads import Shared2FCBBoxHead
