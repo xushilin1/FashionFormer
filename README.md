@@ -1,5 +1,5 @@
 # Fashionformer ECCV-2022
-[A simple, effective and unified baseline for human fashion segmentation and recognition (ECCV 2022)](https://arxiv.org/abs/2204.04654)
+[A simple, effective and unified baseline for human fashion segmentation and recognition (ECCV 2022)](https://arxiv.org/abs/2204.04654) [Video](),[Poster]()
 
 Shilin Xu*,
 [Xiangtai Li*](https://lxtgh.github.io/),
