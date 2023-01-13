@@ -26,7 +26,7 @@ To run this code, make sure you have mmcv and mmdet in your environment.
 
 - Python=3.8.13, CUDA=11.1
 - PyTorch=1.9.0, torchvision=0.10.0
-- mmcv==1.3.18
+- mmcv==1.3.18 (full version, need CUDA extension)
 - mmdet==2.18.0
 
 ## DataSet  
